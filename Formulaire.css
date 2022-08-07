@@ -1,0 +1,59 @@
+.bloc
+{
+    /*background-color: darksalmon;*/
+    padding-left:450px;
+}
+
+form{
+    background: url(img/Bleu.jpg) no-repeat  ;
+    background-size: cover;
+    width: 700 px ;
+    margin-right: 30% ;
+    margin-left: -10% ;
+    padding: 10%;
+    height: 1000px;
+}
+
+
+
+.general{
+    margin-top: 35px;
+    /* padding: 5px; */
+    /* height: 5px;
+    width: 15px; */
+    
+}
+label{
+    width: 50px;
+    display:  inline-block;
+    vertical-align: top;
+    margin: 6px;
+
+}
+input{
+    width: 200px;
+    margin: 0px 0px 0px 35px;
+}
+
+#sexe{
+    margin: 0px 0px 0px 8Opx; 
+}
+select{
+    width: 254px;
+}
+textarea{
+    height: 100px;
+}
+input[type= checkbox] {
+    width:10px;
+}
+input{
+    background:white;
+}
+figure{
+    background-image: url("Bleu.jpg");
+ 
+}
+
+
+   

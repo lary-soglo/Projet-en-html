@@ -1,0 +1,78 @@
+.global
+{
+    background-color: #fff;
+    width: 600px;
+    height: 600px;
+    border-radius: 4px;
+    margin-left: 375px;
+    margin-right: 300px;
+
+}
+body
+{
+    background-image: -webkit-linear-gradient(49deg,rgb(245, 6, 105)0% ,rgb(129, 4, 108)100%);
+    font-style ::lato:1 , serial-sherif
+}
+#input
+{
+    padding-left:50px ;
+    width: 170px;
+    height: 50px;
+    border-radius: 4px;
+    border: none;
+    background-color: #f0dcdcca;
+}
+.bouton
+{
+    margin-top: 40px;
+    margin-left: 50px;
+    padding: 5px;
+    background-color: #2a2abb;
+    border: none;
+    border-radius: 4px;
+    width: 180px;
+    height: 50px;
+    color: #fff;
+    font-size: 18px;
+}
+.Subject
+{
+    
+    background-color: #f0dcdcca;
+    margin-left: 50px;
+    width: 90%;
+    height: 50px;
+    border-radius: 4px;
+    border: none;
+}
+.sub
+{
+    padding-top: 50px;
+    margin-top: 50px;
+    font-size: 18px;
+    color: #928686ca;
+    margin-left: 50px;
+}
+
+.FirstName,.lastName,.Birthday,.gender,.email,.phone_number
+{
+margin-top: 10px;
+padding-left:50px ;
+display:inline-block;
+float:none;
+
+}
+.label
+{
+    font-size: 18px;
+    padding-top:20px ;
+    margin-top: 10px;
+    background-color: none;
+}
+
+h1{
+margin-left: 80px;
+margin-top: 50px;
+padding-top: 20px;
+}
+
